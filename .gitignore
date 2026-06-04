@@ -1,0 +1,8 @@
+manage.py
+db.sqlite3
+dyslexictwitchchat/
+hello/
+.DS_Store
+__pycache__/
+*.pyc
+.env
